@@ -9,7 +9,7 @@ from nltk.corpus import stopwords
 import pandas as pd
 from dateparser.search import search_dates
 import ast
-# import collections
+import collections
 import datetime as dti
 from datetime import date
 import dateutil.parser as dtparse
